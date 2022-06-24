@@ -8,9 +8,10 @@
 
     .section{    
         object-fit: cover;
-        Max-height: 300px;
+        max-width:300px;
+   width:100%;
         Height: 100%;
-        margin: 10px;
+    
         padding: 10px;  
     }
     }
@@ -19,9 +20,11 @@
 
         .section2{ 
             object-fit: cover;
-            Max-height: 300px;
+            max-width:300px;
+            width:100%;
             Height: 100%; 
-            padding: 10px;                                  
+            padding: 10px;
+                                             
             
                
         }
